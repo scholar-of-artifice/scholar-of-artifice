@@ -21,7 +21,7 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 
 Here are some current passion projects on my github.
 
-### [Image Augmentation Service](https://github.com/scholar-of-artifice/image-augmentation-service)
+### [Image Augmentation Microservice](https://github.com/scholar-of-artifice/image-augmentation-microservice)
 
 > An asynchronous microservice to create synthetic training data for Computer Vision Models.
 
