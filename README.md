@@ -19,24 +19,11 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 
 ## 🛠️ I am currently working on ...
 
-Here are some current passion projects on my github.
+Here are some current projects on my github.
 
-### [Image Augmentation Microservice](https://github.com/scholar-of-artifice/image-augmentation-microservice)
+### [Polyglot Security Foundations]([https://github.com/scholar-of-artifice/git-quality-gates](https://github.com/scholar-of-artifice/polyglot-security-foundations))
 
-> An asynchronous microservice to create synthetic training data for Computer Vision Models.
-
-#### ⚙️ Key Technologies
-- `FastAPI` to write the API and `Pydantic/SQLModel` to provide strict data validation. `PyData Stack` for image manipulation.
-- `Docker` for containerization 
-- `Docker volumes` and `PostgreSQL` for data storage
-- Fully automated test suite including `unit`, `integration` and `end-to-end` tests
-
-### [Git Quality Gates](https://github.com/scholar-of-artifice/git-quality-gates)
-
-> Automated quality assurance workflows for different technologies.
-
-#### ⚙️ Key Technologies
-- 100% `shell` scripting for `Git`
+> A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
 
 ## 📡 Collaboration
 
