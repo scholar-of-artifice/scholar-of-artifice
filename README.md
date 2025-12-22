@@ -21,7 +21,7 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 
 Here are some current projects on my github.
 
-### [Polyglot Security Foundations]([https://github.com/scholar-of-artifice/git-quality-gates](https://github.com/scholar-of-artifice/polyglot-security-foundations))
+### [Polyglot Security Foundations](https://github.com/scholar-of-artifice/polyglot-security-foundations)
 
 > A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
 
