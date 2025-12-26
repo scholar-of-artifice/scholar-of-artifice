@@ -2,33 +2,61 @@
 
 > `Data Engineering` & `Scientific Computing`
 
-I am a Software Engineer with 6+ years of experience. This page focuses on the things I enjoy `Data Engineering`, `High Performance Computing (HPC)` and `Machine Learning Infrastructure`.
+I am a Software Engineer with 6+ years of experience.
+ This page focuses on the things I enjoy making.
 
-This repository serves as a technical appendix to my CV. It demonstrates my ability to build scalable ingestion pipelines, optimize compute-heavy tasks, and architect reliable distributed systems.
+This repository serves as a technical appendix to my CV. It demonstrates my ability to build and architect reliable distributed systems and library code.
+I try to make each project succinct and contained.
+You will find high quality parts but not whole bespoke solutions.
 
-## 🏗️ Technical Stack
+----
 
-### Core Engineering
-`Python` (`Pandas`, `Numpy`, `Scipy`, `FastAPI`), `C++` (`Boost`), `Go`, `Rust`
+## 🏗️ Technologies In Portfolio
 
-### Data Infrastructure
-`Apache Kafka`, `RabbitMQ`, `PostgreSQL`, `Redis`
+### Languages
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/go.svg" alt="Go Programming Language Logo" width="64"/>
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/python.svg" alt="Python Programming Language Logo" width="64"/>
+</div>
+Go, Python
 
-### DevOps
-`Kubernetes`, `Docker`, `Terraform`, `GitHub`, `GitHub Actions (CI/CD)`
 
-## 🛠️ I am currently working on ...
+### Frameworks/Libraries
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/fastapi.svg" alt="FastAPI Logo" width="64"/>
+</div>
+FastAPI
 
-Here are some current projects on my github.
+### Infrastructure/DevOps
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/gnubash.svg" alt="GNU Bash Logo" width="64"/>
+</div>
+Docker, Bash
+
+### Security
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/vault.svg" alt="Hashicorp Vault Logo" width="64"/>
+</div>
+Hashicorp Vault
+
+----
+
+## 🛠️ Current Projects
 
 ### [Polyglot Security Foundations](https://github.com/scholar-of-artifice/polyglot-security-foundations)
 
 > A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
 
+----
+
 ## 📡 Collaboration
 
-I am currently open to discussing roles in Data Engineering and ML Ops.
-
+I am currently open to discussing roles in the UK or USA.
 Please refer to contact details provided in my CV.
 
 <!--
