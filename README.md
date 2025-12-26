@@ -9,7 +9,7 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 ## 🏗️ Technical Stack
 
 ### Core Engineering
-<img src="![docs/assets/badges/docker.svg](https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg)" alt="Docker Logo" width="64"/>
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
 
 ## 🛠️ I am currently working on ...
 
