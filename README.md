@@ -9,13 +9,7 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 ## 🏗️ Technical Stack
 
 ### Core Engineering
-`Python` (`Pandas`, `Numpy`, `Scipy`, `FastAPI`), `C++` (`Boost`), `Go`, `Rust`
-
-### Data Infrastructure
-`Apache Kafka`, `RabbitMQ`, `PostgreSQL`, `Redis`
-
-### DevOps
-`Kubernetes`, `Docker`, `Terraform`, `GitHub`, `GitHub Actions (CI/CD)`
+![Docker](https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg)
 
 ## 🛠️ I am currently working on ...
 
