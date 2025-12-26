@@ -11,18 +11,43 @@ This repository serves as a technical appendix to my CV. It demonstrates my abil
 ## 🏗️ Technologies In Portfolio
 
 ### Languages
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/go.svg" alt="Go Programming Language Logo" width="64"/>
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/python.svg" alt="Python Programming Language Logo" width="64"/>
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/go.svg" alt="Go Programming Language Logo" width="64"/>
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/python.svg" alt="Python Programming Language Logo" width="64"/>
+</div>
+```
+Go, Python
+```
+
 
 ### Frameworks/Libraries
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/fastapi.svg" alt="FastAPI Logo" width="64"/>
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/fastapi.svg" alt="FastAPI Logo" width="64"/>
+</div>
+```
+FastAPI
+```
 
 ### Infrastructure/DevOps
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/gnubash.svg" alt="GNU Bash Logo" width="64"/>
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/gnubash.svg" alt="GNU Bash Logo" width="64"/>
+</div>
+```
+Docker, Bash
+```
 
 ### Security
-<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/vault.svg" alt="Hashicorp Vault Logo" width="64"/>
+<!--technology badges here-->
+<div class="technology-list" alt="This project includes the use of the following technologies:">
+    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/vault.svg" alt="Hashicorp Vault Logo" width="64"/>
+</div>
+```
+Hashicorp Vault
+```
 
 ----
 
