@@ -2,22 +2,37 @@
 
 > `Data Engineering` & `Scientific Computing`
 
-I am a Software Engineer with 6+ years of experience. This page focuses on the things I enjoy `Data Engineering`, `High Performance Computing (HPC)` and `Machine Learning Infrastructure`.
+I am a Software Engineer with 6+ years of experience. This page focuses on the things I enjoy making.
 
-This repository serves as a technical appendix to my CV. It demonstrates my ability to build scalable ingestion pipelines, optimize compute-heavy tasks, and architect reliable distributed systems.
+This repository serves as a technical appendix to my CV. It demonstrates my ability to build scalable ingestion pipelines, optimize compute-heavy tasks, and architect reliable distributed systems. I try to make each project succinct and contained. You will find high quality parts and not whole bespoke solutions.
 
-## 🏗️ Technical Stack
+----
 
-### Core Engineering
+## 🏗️ Technologies In Portfolio
+
+### Languages
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/go.svg" alt="Go Programming Language Logo" width="64"/>
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/python.svg" alt="Python Programming Language Logo" width="64"/>
+
+### Frameworks/Libraries
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/fastapi.svg" alt="FastAPI Logo" width="64"/>
+
+### Infrastructure/DevOps
 <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/gnubash.svg" alt="GNU Bash Logo" width="64"/>
 
-## 🛠️ I am currently working on ...
+### Security
+<img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/vault.svg" alt="Hashicorp Vault Logo" width="64"/>
 
-Here are some current projects on my github.
+----
+
+## 🛠️ Current Projects
 
 ### [Polyglot Security Foundations](https://github.com/scholar-of-artifice/polyglot-security-foundations)
 
 > A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
+
+----
 
 ## 📡 Collaboration
 
