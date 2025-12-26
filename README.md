@@ -2,9 +2,12 @@
 
 > `Data Engineering` & `Scientific Computing`
 
-I am a Software Engineer with 6+ years of experience. This page focuses on the things I enjoy making.
+I am a Software Engineer with 6+ years of experience.
+ This page focuses on the things I enjoy making.
 
-This repository serves as a technical appendix to my CV. It demonstrates my ability to build scalable ingestion pipelines, optimize compute-heavy tasks, and architect reliable distributed systems. I try to make each project succinct and contained. You will find high quality parts and not whole bespoke solutions.
+This repository serves as a technical appendix to my CV. It demonstrates my ability to build and architect reliable distributed systems and library code.
+I try to make each project succinct and contained.
+You will find high quality parts but not whole bespoke solutions.
 
 ----
 
@@ -53,8 +56,7 @@ Hashicorp Vault
 
 ## 📡 Collaboration
 
-I am currently open to discussing roles in Data Engineering and ML Ops.
-
+I am currently open to discussing roles in the UK or USA.
 Please refer to contact details provided in my CV.
 
 <!--
