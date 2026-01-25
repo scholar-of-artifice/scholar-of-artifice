@@ -15,34 +15,21 @@ You will find high quality parts but not whole bespoke solutions.
 
 ### Languages
 <!--technology badges here-->
-<div class="technology-list" alt="This project includes the use of the following technologies:">
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/go.svg" alt="Go Programming Language Logo" width="64"/>
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/python.svg" alt="Python Programming Language Logo" width="64"/>
-</div>
-Go, Python
-
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ### Frameworks/Libraries
 <!--technology badges here-->
-<div class="technology-list" alt="This project includes the use of the following technologies:">
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/fastapi.svg" alt="FastAPI Logo" width="64"/>
-</div>
-FastAPI
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 
 ### Infrastructure/DevOps
 <!--technology badges here-->
-<div class="technology-list" alt="This project includes the use of the following technologies:">
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/docker.svg" alt="Docker Logo" width="64"/>
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/gnubash.svg" alt="GNU Bash Logo" width="64"/>
-</div>
-Docker, Bash
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ### Security
 <!--technology badges here-->
-<div class="technology-list" alt="This project includes the use of the following technologies:">
-    <img src="https://github.com/scholar-of-artifice/polyglot-security-foundations/blob/main/docs/assets/badges/vault.svg" alt="Hashicorp Vault Logo" width="64"/>
-</div>
-Hashicorp Vault
+![Vault](https://img.shields.io/badge/Vault-FFCF25?logo=vault&logoColor=fff)
 
 ----
 
