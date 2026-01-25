@@ -15,17 +15,21 @@ You will find high quality parts but not whole bespoke solutions.
 
 ### Languages
 <!--technology badges here-->
+![Standard](https://img.shields.io/badge/C%2B%2B-blue.svg?&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
-### Frameworks/Libraries
+### Frameworks/Libraries/Tools
 <!--technology badges here-->
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white)
 
 ### Infrastructure/DevOps
 <!--technology badges here-->
+![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ### Security
 <!--technology badges here-->
@@ -38,6 +42,10 @@ You will find high quality parts but not whole bespoke solutions.
 ### [Polyglot Security Foundations](https://github.com/scholar-of-artifice/polyglot-security-foundations)
 
 > A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
+
+### [C++ Game Dice](https://github.com/scholar-of-artifice/game-dice-cpp)
+
+> A header-only C++23 library for deterministic, weighted probability distributions.
 
 ----
 
