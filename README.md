@@ -45,7 +45,7 @@ You will find high quality parts but not whole bespoke solutions.
 
 ### [C++ Game Dice](https://github.com/scholar-of-artifice/game-dice-cpp)
 
-> A header-only C++23 library for deterministic, weighted probability distributions.
+> A header-only C++23 library for deterministic, type-safe, weighted probability distributions.
 
 ----
 
