@@ -1,39 +1,21 @@
-# scholar-of-artifice
+# `hello!` I am a platform-minded Systems & Data Engineer
+An infrastructure-focused Software Engineer with **6+ years of professional experience** building highly reliable software. I specialize in the intersection of low-level execution, data integrity, service reliability and infrastructure lifecycle management.
 
-> `Data Engineering` & `Scientific Computing`
+> **My Engineering Philosophy:** Treat infrastructure as code. Design data flows for strict determinism. Architect software to be observable, highly available and secure. Prove your systems have these qualities with robust tests.
 
-I am a Software Engineer with 6+ years of experience.
- This page focuses on the things I enjoy making.
-
-This repository serves as a technical appendix to my CV. It demonstrates my ability to build and architect reliable distributed systems and library code.
-I try to make each project succinct and contained.
-You will find high quality parts but not whole bespoke solutions.
+This repository serves as an interactive technical appendix to my CV.
+Instead of showcasing generic boilerplate applications, these projects isolate and solve complex, real-world challenges.
 
 ----
 
-## 🏗️ Technologies In Portfolio
+## 🏗️ Core Technologies
 
-### Languages
-<!--technology badges here-->
-![Standard](https://img.shields.io/badge/C%2B%2B-blue.svg?&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+| Domain | Technologies & Tooling |
+| :---- | :---- |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-blue.svg?&logo=c%2B%2B&logoColor=white),  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white),  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff), ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) | 
+| **Infrastructure & SRE** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff),  ![Vault](https://img.shields.io/badge/Vault-FFCF25?logo=vault&logoColor=fff),  ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white), ![Kubernetes](https://img.shields.io/badge/Kubernetes&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white), ![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white) | 
 
-### Frameworks/Libraries/Tools
-<!--technology badges here-->
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white)
-
-### Infrastructure/DevOps
-<!--technology badges here-->
-![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-### Security
-<!--technology badges here-->
-![Vault](https://img.shields.io/badge/Vault-FFCF25?logo=vault&logoColor=fff)
 
 ----
 
@@ -43,9 +25,15 @@ You will find high quality parts but not whole bespoke solutions.
 
 > A Zero-Trust orchestration sandbox demonstrating automated mTLS and secret rotation with Vault across Go and Python microservices.
 
+Feautres hot-reloading of mTLS contexts and Vault sidecar orchestration to eliminate credential-based downtime and static secret leaks.
+
+#### Engineering Highlights
+
 ### [C++ Game Dice](https://github.com/scholar-of-artifice/game-dice-cpp)
 
 > A header-only C++23 library for deterministic, type-safe, weighted probability distributions.
+
+Features template heavy, zero-allocation weighted distributions. Validated via LibFuzzer and instrumented CI/CD to ensure memory safety and deterministic outcomes.
 
 ----
 
