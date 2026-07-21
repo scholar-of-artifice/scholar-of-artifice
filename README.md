@@ -25,14 +25,6 @@ Instead of showcasing generic boilerplate applications, these projects isolate a
 
 ## 🛠️ Current Projects
 
-### [Remediation Watchdog [Work in Progress]](https://github.com/scholar-of-artifice/remediation-watchdog)
-
-| Concept | Description |
-| :---- | :---- |
-| **Target** | ![SRE](https://img.shields.io/badge/SRE-B8F5BE?style=flat-square), ![Infrastructure](https://img.shields.io/badge/Infrastructure-CAF5B8?style=flat-square), ![Orchestration](https://img.shields.io/badge/Orchestration-E3F5B8?style=flat-square) |
-| **Problem** | High-throughput data pipelines experience unpredictable spikes, consumer lag, and localized bottlenecks that traditionally require manual engineering intervention and paging. |
-| **Solution** | Designing an automated "Control Plane" service running in local Kubernetes that monitors distributed SLIs (Kafka consumer lag, connection health) and executes closed-loop remediation scripts to auto-heal the cluster. |
-
 ### [Polyglot Security Foundations](https://github.com/scholar-of-artifice/polyglot-security-foundations)
 
 | Concept | Description |
